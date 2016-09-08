@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /management/*
+Disallow: /login
+Disallow: /about
+Disallow: /director
+Disallow: /earn
+Disallow: /forbiden
+Disallow: /notfound
+Disallow: /scholarschips
+Disallow: /success
+Disallow: /tsall
+Disallow: /viewft
